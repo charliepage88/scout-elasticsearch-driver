@@ -1,5 +1,5 @@
 {
-    "name": "babenkoivan/scout-elasticsearch-driver",
+    "name": "charliepage88/scout-elasticsearch-driver",
     "type": "library",
     "description": "The Elasticsearch Driver for Laravel Scout",
     "keywords": [
@@ -18,6 +18,11 @@
             "name": "Babenko Ivan",
             "email": "babenko.i.a@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Charlie Page",
+            "email": "charlie@adaptcms.com",
+            "role": "developer"
         }
     ],
     "require": {
